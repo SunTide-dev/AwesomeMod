@@ -416,3 +416,6 @@ run/logs/debug-5.log.gz
 run/
 .gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-clientonly-project-root/1.19.4-net.fabricmc.yarn.1_19_4.1.19.4+build.2-v2/minecraft-clientonly-project-root-1.19.4-net.fabricmc.yarn.1_19_4.1.19.4+build.2-v2-sources.jar
 .gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-clientonly-project-root/1.19.4-net.fabricmc.yarn.1_19_4.1.19.4+build.2-v2/minecraft-clientonly-project-root-1.19.4-net.fabricmc.yarn.1_19_4.1.19.4+build.2-v2-sources.lmap
+.gradle/loom-cache/unpick-logging.properties
+.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-common-project-root/1.19.4-net.fabricmc.yarn.1_19_4.1.19.4+build.2-v2/minecraft-common-project-root-1.19.4-net.fabricmc.yarn.1_19_4.1.19.4+build.2-v2-sources.jar
+.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-common-project-root/1.19.4-net.fabricmc.yarn.1_19_4.1.19.4+build.2-v2/minecraft-common-project-root-1.19.4-net.fabricmc.yarn.1_19_4.1.19.4+build.2-v2-sources.lmap
