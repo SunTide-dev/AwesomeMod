@@ -357,3 +357,47 @@ build/loom-cache/remapped_working/net_fabricmc_yarn_1_19_4_1_19_4_build_2_v2.net
 .gradle/8.1.1/checksums/md5-checksums.bin
 .gradle/8.1.1/checksums/sha1-checksums.bin
 .gradle/8.1.1/executionHistory/executionHistory.lock
+.gradle/file-system.probe
+.gradle/8.1.1/executionHistory/executionHistory.bin
+.gradle/8.1.1/fileHashes/fileHashes.bin
+.gradle/buildOutputCleanup/outputFiles.bin
+.gradle/loom-cache/launch.cfg
+.gradle/loom-cache/log4j.xml
+.gradle/loom-cache/remapClasspath.txt
+.vscode/launch.json
+run/options.txt
+run/usercache.json
+run/config/fabric/indigo-renderer.properties
+run/data/fabricDefaultResourcePacks.dat
+run/logs/debug.log
+run/logs/latest.log
+run/saves/New World/level.dat
+run/saves/New World/level.dat_old
+run/saves/New World/DIM-1/data/raids.dat
+run/saves/New World/DIM1/data/raids_end.dat
+run/saves/New World/advancements/0d1798c0-e9c5-3a83-99d9-4cf400fcf12a.json
+run/saves/New World/data/raids.dat
+run/saves/New World/entities/r.-1.-1.mca
+run/saves/New World/entities/r.-1.0.mca
+run/saves/New World/entities/r.0.-1.mca
+run/saves/New World/entities/r.0.0.mca
+run/saves/New World/playerdata/0d1798c0-e9c5-3a83-99d9-4cf400fcf12a.dat
+run/saves/New World/region/r.-1.-1.mca
+run/saves/New World/region/r.-1.0.mca
+run/saves/New World/region/r.0.-1.mca
+run/saves/New World/region/r.0.0.mca
+run/saves/New World/stats/0d1798c0-e9c5-3a83-99d9-4cf400fcf12a.json
+run/saves/New World/level.dat
+run/saves/New World/level.dat_old
+run/saves/New World/DIM-1/data/raids.dat
+run/saves/New World/DIM1/data/raids_end.dat
+run/saves/New World/data/raids.dat
+run/saves/New World/entities/r.-1.-1.mca
+run/saves/New World/entities/r.-1.0.mca
+run/saves/New World/entities/r.0.-1.mca
+run/saves/New World/entities/r.0.0.mca
+run/saves/New World/region/r.-1.-1.mca
+run/saves/New World/region/r.-1.0.mca
+run/saves/New World/region/r.0.-1.mca
+run/saves/New World/region/r.0.0.mca
+run/usercache.json
