@@ -2,18 +2,12 @@
   "mappings": {
     "stdev/awesomemod/mixin/ExampleMixin": {
       "loadWorld": "Lnet/minecraft/server/MinecraftServer;method_3735()V"
-    },
-    "stdev/awesomemod/mixin/client/ExampleClientMixin": {
-      "run": "Lnet/minecraft/class_310;method_1514()V"
     }
   },
   "data": {
     "named:intermediary": {
       "stdev/awesomemod/mixin/ExampleMixin": {
         "loadWorld": "Lnet/minecraft/server/MinecraftServer;method_3735()V"
-      },
-      "stdev/awesomemod/mixin/client/ExampleClientMixin": {
-        "run": "Lnet/minecraft/class_310;method_1514()V"
       }
     }
   }
